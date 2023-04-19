@@ -15,4 +15,4 @@ This data set comes under classification problem, as the input URL is classified
 
 ## Results
 
-From the obtained results of the above models, XGBoost Classifier has highest model performance of 98.1%. So the model is saved to the file '[XGBoostClassifier.pickle.dat](https://github.com/ahana-mukherjee/phishing-website-detection/blob/master/XGBoostClassifier.pickle.dat)'
+From the obtained results of the above models, XGBoost Classifier has highest model performance of 98.1%. So the XGBoost model is selected and is saved to the file '[XGBoostClassifier.pickle.dat](https://github.com/ahana-mukherjee/phishing-website-detection/blob/master/XGBoostClassifier.pickle.dat)'
